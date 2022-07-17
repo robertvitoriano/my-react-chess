@@ -1,6 +1,9 @@
 {
   "name": "my-react-chess-game",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.x"
+  },
   "private": true,
   "dependencies": {
     "react": "^18.1.0",
